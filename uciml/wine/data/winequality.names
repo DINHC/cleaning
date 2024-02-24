@@ -45,7 +45,7 @@ Citation Request:
 
 5. Number of Instances: red wine - 1599; white wine - 4898. 
 
-6. Number of Attributes: 11 + output attribute
+6. Number of Attributes: 11 and output attribute
   
    Note: several of the attributes may be correlated, thus it makes sense to apply some sort of
    feature selection.
